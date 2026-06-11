@@ -1,4 +1,4 @@
-# 🛠️ PowerShell SysAdmin Toolbox
+# 🛠️ PowerShell Technician Toolbox
 
 Bienvenue sur mon dépôt de scripts d'administration système et réseau. 
 Je suis **Aurélien Pont**, étudiant en **BTS SIO option SISR** et alternant en tant qu'Administrateur Technique chez Novares.
