@@ -1,8 +1,8 @@
 <# 
-## SYNOPSIS
+.SYNOPSIS
     Outil de diagnostic Helpdesk permettant d'afficher rapidement les principales informations d'un poste Windows.
-## DESCRIPTION
-    Ce script PowerShell collecte et affiche les informations essentielles d'un poste de travail afin de faciliter les opérations de support, de diagnostic et d'inventair
+.DESCRIPTION
+    Ce script PowerShell collecte et affiche les informations essentielles d'un poste de travail afin de faciliter les opérations de support à distance, de diagnostic et d'inventaire
 #>
 
 function Format-GB($bytes) {
