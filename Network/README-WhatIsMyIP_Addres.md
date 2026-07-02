@@ -67,9 +67,5 @@ Software
    install date : 2025/09/15 08:30
         uptime : 5 day(s), 3 hour(s), 22 minute(s), 10 second(s).
 ==============================================================
-```
 
-## 👤 Auteur
 
-**Aurélien Pont**  
-Dépôt : **Aurel-AD/Scripts-Administration-PowerShell**
