@@ -14,6 +14,7 @@ L'outil facilite le suivi des équipements mis au rebut en centralisant les info
 - Fichiers :
   - logo.png
   - Novares.ico
+  - manual for the destruction form.pdf
 
 ## 🚀 Utilisation
 
