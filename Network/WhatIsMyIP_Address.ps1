@@ -1,8 +1,8 @@
-<#  WhatIsMyIP_Address.ps1 (fix compatibilité PS 5.1)
-## Synopsis
-Outil de diagnostic Helpdesk permettant d'afficher rapidement les principales informations d'un poste Windows.
-## Description
-Ce script PowerShell collecte et affiche les informations essentielles d'un poste de travail afin de faciliter les opérations de support, de diagnostic et d'inventair
+<# 
+## SYNOPSIS
+    Outil de diagnostic Helpdesk permettant d'afficher rapidement les principales informations d'un poste Windows.
+## DESCRIPTION
+    Ce script PowerShell collecte et affiche les informations essentielles d'un poste de travail afin de faciliter les opérations de support, de diagnostic et d'inventair
 #>
 
 function Format-GB($bytes) {
