@@ -14,6 +14,7 @@ Ce dépôt regroupe plusieurs scripts PowerShell que j'ai utlisés pour automati
 | **Workstation** | `Get-SecurityAudit.ps1` | Audit de sécurité local (BitLocker, Firewall, AV) avec rapport HTML. |
 | **Workstation** | `Optimize-SystemMaintenance.ps1` | Nettoyage des fichiers temporaires et vérification de l'Uptime. |
 | **Network** | `Test-NetworkConnectivity.ps1` | Outil de diagnostic Helpdesk (Ping Passerelle, DNS, VPN FortiClient). |
+| **Network** | `WhatIsMyIP_Address.ps1` | Outil de diagnostic Helpdesk permettant d'afficher rapidement les principales informations d'un poste Windows. |
 
 ## ⚠️ Avertissement de sécurité
 *Tous les scripts présents ici ont été anonymisés (adresses IP, noms de domaines, mots de passe retirés) pour des raisons de confidentialité et de politique de sécurité de l'entreprise.*
